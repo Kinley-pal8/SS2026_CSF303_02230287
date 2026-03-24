@@ -40,3 +40,7 @@ This practical problem demonstrated real-world applications of deques. Key learn
 - Interactive input handling makes the program more user-friendly
 - Empty check before popping prevents segmentation faults
 - Deques are perfect for simulating real queue/stack scenarios with both ends accessible
+
+## Screenshots
+
+![Question 5 Output](../screenshots/5.png)

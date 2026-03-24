@@ -44,3 +44,7 @@ This problem reinforced bitmask generation while adding a filtering constraint. 
 - Understanding this pattern could optimize to O(1), but the bitmask approach is more general
 - This technique applies to various subset problems: sum constraints, product constraints, etc.
 - The combination of bitmask subset generation + constraint checking is powerful for many problems
+
+## Screenshots
+
+![Question 9 Output](../screenshots/9.png)

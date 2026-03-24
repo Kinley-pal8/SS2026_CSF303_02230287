@@ -39,3 +39,7 @@ This problem reinforced the importance of using STL containers (vectors) over tr
 - STL algorithms like `max_element()` and `min_element()` are optimized and reduce code complexity
 - Using `long long` for sum prevents integer overflow with large inputs
 - Time complexity remains O(n) regardless of using STL functions vs manual loops
+
+## Screenshots
+
+![Question 1 Output](../screenshots/1.png)

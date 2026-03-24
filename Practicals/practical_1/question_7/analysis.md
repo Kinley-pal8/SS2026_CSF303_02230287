@@ -42,3 +42,7 @@ This problem was enlightening in understanding the two-heap technique for dynami
 - The min heap keeps the larger half with smallest element accessible at top
 - This technique is widely used in real-time data analysis and streaming applications
 - Initially, I didn't realize heap balancing was crucial; the imbalance ensures median is always at one of the heap tops
+
+## Screenshots
+
+![Question 7 Output](../screenshots/7.png)

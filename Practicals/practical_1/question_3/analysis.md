@@ -41,3 +41,7 @@ This problem taught me how the `unique()` STL function works and its dependency 
 - `erase()` needs to be called to physically remove the duplicate references
 - For unsorted data with many duplicates, this approach (O(n log n)) is better than using a set (O(n log n))
 - This technique is memory-efficient in-place removal compared to creating new containers
+
+## Screenshots
+
+![Question 3 Output](../screenshots/3.png)

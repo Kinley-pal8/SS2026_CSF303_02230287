@@ -40,3 +40,7 @@ This problem was a turning point in understanding deques and their power in slid
 - Storing indices instead of values is crucial for tracking which element is in which window
 - This technique is more efficient than using a multiset (which would be O(n log k))
 - The deque cleverly maintains a monotonic decreasing order of values, enabling O(1) maximum lookup
+
+## Screenshots
+
+![Question 4 Output](../screenshots/4.png)

@@ -40,3 +40,7 @@ This problem showcased the power of priority queues for selection problems. Key 
 - This approach is more efficient than sorting entire array (which would give O(n log n) and still require K extractions)
 - For very large K close to n, this is much better than using a min heap of size K (which would be O(n log k))
 - The priority_queue automatically maintains heap property after each insertion
+
+## Screenshots
+
+![Question 6 Output](../screenshots/6.png)

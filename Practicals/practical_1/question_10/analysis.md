@@ -45,3 +45,7 @@ This problem is the culmination of understanding bitmask techniques for subset e
   - DP is better when target is small and n is large
 - This problem bridges subset generation with practical constraint satisfaction
 - The elegance of bitmask techniques makes complex combinatorial problems tractable
+
+## Screenshots
+
+![Question 10 Output](../screenshots/10.png)

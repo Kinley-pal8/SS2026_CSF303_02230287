@@ -35,3 +35,7 @@ This problem demonstrates that reverse printing can be done efficiently with a s
 - No need for the `reverse()` function if only printing is required
 - Reverse traversal is intuitive and space-efficient
 - Time complexity is optimal (O(n)) as we must visit each element at least once
+
+## Screenshots
+
+![Question 2 Output](../screenshots/2.png)

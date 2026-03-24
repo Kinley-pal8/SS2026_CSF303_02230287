@@ -45,3 +45,7 @@ This problem brilliantly demonstrated the power of bitmask techniques in combina
 - The approach is non-recursive, avoiding function call overhead
 - This technique extends to other subset problems with constraints
 - Initially seemed complex but very intuitive once understood: bit i set = element i included
+
+## Screenshots
+
+![Question 8 Output](../screenshots/8.png)
